@@ -1,0 +1,5 @@
+bbox_masks_path: "predictions/bbox_masks_test.json"
+ocr_model_path: "models/ocr.pt"
+alphabet_path: "predictions/alphabet.txt"
+result_df_path: "predictions/result.csv"
+use_cuda: True

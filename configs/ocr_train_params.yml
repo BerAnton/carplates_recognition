@@ -1,0 +1,5 @@
+batch_size: 16
+model_name: "ocr.pt"
+alphabet_save_path: "predictions/alphabet.txt"
+epochs: 2
+lr: 0.0003

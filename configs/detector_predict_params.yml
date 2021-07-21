@@ -1,0 +1,5 @@
+input_data_path: "data/test"
+preds_save_path: "predictions"
+preds_name: "bbox_masks_test.json"
+threshold_score: 0.93
+threshold_mask: 0.05

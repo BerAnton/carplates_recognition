@@ -1,0 +1,31 @@
+# Python venvs
+.venv/
+.env
+
+# VSCode settings
+.vscode
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# Linting config
+.pylintrc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Mypy cache
+.mypy_cache/
+
+# Data and models folders
+/data/
+/models/
+/submits/
+/predictions/
+
+# Submission
+submission.csv
+
+# .ipynb files
+unmodified_solution.ipynb
