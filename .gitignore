@@ -2,8 +2,8 @@
 .venv/
 .env
 
-# VSCode settings
-.vscode
+#ЗPycharm settings
+.idea
 
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
