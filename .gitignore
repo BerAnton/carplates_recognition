@@ -3,7 +3,7 @@
 .env
 
 #ЗPycharm settings
-.idea
+.idea/
 
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
